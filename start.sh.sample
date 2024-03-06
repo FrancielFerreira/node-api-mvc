@@ -1,0 +1,6 @@
+export DATABASE=''
+export USER=''
+export PASSWORD=''
+export HOST=''
+
+npm start
