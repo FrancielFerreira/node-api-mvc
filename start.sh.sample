@@ -1,6 +1,3 @@
-export DATABASE=''
-export USER=''
-export PASSWORD=''
-export HOST=''
+NODE_ENV || 'production'
 
 npm start
