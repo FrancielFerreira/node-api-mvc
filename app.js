@@ -8,6 +8,8 @@ const routes = require('./src/config/routes');
 
 const app = express();
 
+// novo commit
+
 app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
